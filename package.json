@@ -1,5 +1,5 @@
 {
-  "name": "cross-platform",
+  "name": "get-platform",
   "version": "1.0.0",
   "description": "This is a simple code for getting platform from both browser and node",
   "main": "App.js",
